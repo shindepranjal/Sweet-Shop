@@ -19,8 +19,8 @@ npm --version
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/kartikkaram/sweet_shop_management_system.git
-cd sweet_shop_management_system
+git clone https://github.com/shindepranjal/Sweet-Shop.git
+
 ```
 
 ### 2. Install Dependencies
@@ -121,7 +121,5 @@ This Sweet Shop Management System is a full-featured inventory management applic
 
 
 
-## 🙌 Author
 
-Made  by [Kartik Karambelkar](https://github.com/kartikkaram)
 
