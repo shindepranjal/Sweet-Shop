@@ -92,31 +92,31 @@ This Sweet Shop Management System is a full-featured inventory management applic
 ## 📸 Screenshots & Features Demo
 
 ### Main Dashboard - Customer Section
-![Sweet Shop customer section](./screenshots/customer-section.png)
+![Sweet Shop customer section](./screenshots/customer-section.jpg)
 *Main interface showing all sweets with search and sort functionality*
 
 ### Shop Owner Management Section
-![Shop Owner Section](./screenshots/shop-owner-section.png)
+![Shop Owner Section](./screenshots/shop-owner-section.jpg)
 *Administrative panel for inventory management and adding new sweets*
 
 ### Add New Sweet Feature
-![Add Sweet Form](./screenshots/add-feature.png)
+![Add Sweet Form](./screenshots/add-feature.jpg)
 *Form to add new sweets with validation for name, category, price, and quantity*
 
 ### Edit Sweet Details
-![Edit Sweet Feature](./screenshots/edit-feature.png)
+![Edit Sweet Feature](./screenshots/edit-feature.jpg)
 *Edit functionality for modifying sweet details and updating inventory*
 
 ### Purchase Processing System
-![Purchase Sweet](./screenshots/purchase-feature.png)
+![Purchase Sweet](./screenshots/purchase-feature.jpg)
 *Customer purchase interface with quantity selection and inventory updates*
 
 ### Restock Management
-![Restock Feature](./screenshots/restock-feature.png)
+![Restock Feature](./screenshots/restock-feature.jpg)
 *Restock functionality for managing inventory levels and low stock alerts*
 
 ### Sort & Filter Options
-![Sort Feature](./screenshots/sort-feature.png)
+![Sort Feature](./screenshots/sort-feature.jpg)
 *Advanced sorting options by name, price, quantity with filtering capabilities*
 
 
